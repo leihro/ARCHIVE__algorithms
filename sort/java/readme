@@ -1,0 +1,5 @@
+remove the pacakge line first before run it in command line:
+	'''
+	javac target.java
+	java target
+	'''
